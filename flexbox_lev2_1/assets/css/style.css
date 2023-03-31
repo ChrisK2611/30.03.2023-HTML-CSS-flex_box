@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Bild1 {
+    background-image: url("/flexbox_lev2_1/assets/1003-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild2 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/321-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild3 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/325-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild4 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/424-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild5 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/430-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild6 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/469-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild7 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/52-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild8 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/527-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild9 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/65-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild10 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/717-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild11 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/90-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Bild12 {
+    /* height: 200px;
+    width: 200px; */
+    background-image: url("/flexbox_lev2_1/assets/994-200x200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.flex-element {
+    /* height: 100vh; */
+    width: 100vw;
+   display: flex;
+   flex-wrap: wrap;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    display: flex;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}   

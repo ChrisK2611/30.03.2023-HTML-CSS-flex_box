@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-image: url("/flexbox_lev1_2/assets/peter-broomfield-m3m-lnR90uM-unsplash.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    color: rgb(182, 17, 17);
+}
+
+header {
+    height: 100px;
+    background-color: rgba(211, 211, 211, 0.316);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+h1 {
+    padding-left: 50px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5rem;
+    padding-right: 25px;
+}
